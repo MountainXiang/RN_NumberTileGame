@@ -12,6 +12,8 @@
 
 `$ cd ..`
 
+`$ react-native run-ios`
+
 `$ npm start`
 
-`$ react-native run-ios`
+
